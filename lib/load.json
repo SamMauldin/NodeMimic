@@ -1,0 +1,21 @@
+[
+    "Blob",
+    "FileSaver",
+    "purl",
+    "lua5.1.5.min",
+    "browserfs",
+    "xdRequest",
+    "code",
+    "globals",
+    "core",
+    "computer",
+    "filesystem",
+    "event",
+    "bit",
+    "fs",
+    "http",
+    "os",
+    "peripheral",
+    "redstone",
+    "term"
+]

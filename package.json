@@ -1,0 +1,10 @@
+{
+  "name": "NodeMimic",
+  "version": "0.1.1",
+  "dependencies": {
+    "keypress": "0.2.1",
+    "node-localstorage": "^0.5.0",
+    "node-terminal": "0.1.1",
+    "request": "^2.53.0"
+  }
+}

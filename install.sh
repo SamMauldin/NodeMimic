@@ -4,4 +4,6 @@ echo "Please change to v10 if you're using v12"
 echo "Going on in 5 seconds..."
 sleep 5
 npm install
+mkdir include
+mkdir resources
 node lib/install.js

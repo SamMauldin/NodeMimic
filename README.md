@@ -10,7 +10,7 @@ currently supported due to a bug in request.js
 
     git clone https://github.com/Sxw1212/NodeMimic.git
     cd NodeMimic
-    bash install.sh
+    ./install.sh
 
 ## Running
 

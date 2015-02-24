@@ -5,6 +5,8 @@ project to node.js, and by extent, the terminal.
 
 ## Installing
 
+You need [Node.js](https://nodejs.org) installed to run NodeMimic.
+
     git clone https://github.com/Sxw1212/NodeMimic.git
     cd NodeMimic
     ./install.sh

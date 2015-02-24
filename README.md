@@ -25,7 +25,7 @@ Just run index.js. The filesystem is fully persistant.
 - HTTP is not yet supported
 - Cursor blinking and hiding is not yet supported
 - The escape key is used in place of the control key because we can't capture
-that in the browser.
+that in the terminal.
 - All Mimic limitations apply
 
 ## License

@@ -5,9 +5,6 @@ project to node.js, and by extent, the terminal.
 
 ## Installing
 
-To install Node-Mimic, make sure you have node.js v10 installed. v12 is not
-currently supported due to a bug in request.js
-
     git clone https://github.com/Sxw1212/NodeMimic.git
     cd NodeMimic
     ./install.sh

@@ -3,6 +3,8 @@
 Node-Mimic is a port of the excellent [Mimic](https://github.com/1lann/Mimic)
 project to node.js, and by extent, the terminal.
 
+![](https://github.com/Sxw1212/NodeMimic/blob/master/img/ScreenShot.png)
+
 ## Installing
 
 You need [Node.js](https://nodejs.org) installed to run NodeMimic.

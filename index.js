@@ -79,7 +79,7 @@ var contextObject = {
         }
     },
     navigator: {
-        userAgent: "Node.js StupidDOM"
+        userAgent: "NodeMimic Fake DOM"
     },
     ui: {
         onLoad: function() {

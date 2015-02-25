@@ -210,3 +210,14 @@ process.stdin.on("keypress", function (ch, key) {
 });
 
 process.stdin.setRawMode(true);
+
+setInterval(function() {
+    if (!ctx.core.computers[0] || !ctx.core.computers[0].alive) {
+        var terminal = require("./lib/terminal");
+        terminal.reset();
+        terminal.clear();
+        terminal.move(0, 0);
+        console.log("Computer Shutdown. Have a nice day!");
+        process.exit(0); // Computer has shutdown
+    }
+}, 1000);

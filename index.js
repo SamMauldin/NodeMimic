@@ -18,13 +18,13 @@ var contextObject = {
     },
     context: {
         getImageData: function() {
-
+            require("./lib/render").scroll();
         },
         clearRect: function() {
 
         },
         putImageData: function() {
-            require("./render").scroll();
+
         }
     },
     canvas: {
@@ -157,7 +157,7 @@ loadOrder.forEach(function(v) {
         script.runInContext(ctx);
     } catch (e) {
         console.log("VM Error: " + e);
-        console.log("Did you run the install script? Read the README.")
+        console.log("Did you run the install script? Read the README.");
         process.exit(1);
     }
 });
